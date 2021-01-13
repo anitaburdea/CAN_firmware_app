@@ -137,7 +137,7 @@ void FirmwareSend::sendFile(QString fileLocation){
                     {
                         if(fileLen > MAX_BYTES_TO_SEND)
                         {
-                            //Flash programming is done by writing frames of 32 frames
+                            //Flash programming is done by writing frames of 32
                             for(i = 0; i < NUMBER_OF_FRAMES; i++)
                             {
                                 //read from file
