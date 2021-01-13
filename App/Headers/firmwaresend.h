@@ -3,7 +3,7 @@
 
 #include <QString>
 #include <QObject>
-#include "PCANBasic.h"
+#include "App/Headers/can.h"
 
 #define MAX_BYTES_TO_SEND       256
 #define LENGTH_CAN_MSG          8

@@ -1,5 +1,5 @@
 #include <QCoreApplication>
-#include "can.h"
+#include "App/Headers/can.h"
 
 //Checks if the status is an error code and displays its error message
 void Check(char* id, TPCANStatus status){

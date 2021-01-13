@@ -19,16 +19,16 @@ DEFINES += _MBCS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    main.cpp \
-    mainwindow.cpp \
-    can.cpp \
-    firmwaresend.cpp
+    C:/Users/papp_/Documents/CAN_firmware/App/Sources/main.cpp \
+    C:/Users/papp_/Documents/CAN_firmware/App/Sources/mainwindow.cpp \
+    C:/Users/papp_/Documents/CAN_firmware/App/Sources/can.cpp \
+    C:/Users/papp_/Documents/CAN_firmware/App/Sources/firmwaresend.cpp
 
 
 HEADERS += \
-    mainwindow.h \
-    can.h\
-    firmwaresend.h
+    C:/Users/papp_/Documents/CAN_firmware/App/Headers/mainwindow.h \
+    C:/Users/papp_/Documents/CAN_firmware/App/Headers/can.h\
+    C:/Users/papp_/Documents/CAN_firmware/App/Headers/firmwaresend.h
 
 FORMS += \
     mainwindow.ui
