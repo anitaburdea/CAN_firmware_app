@@ -3,7 +3,7 @@
 
 #endif // CAN_H
 #include <stdint.h>
-#include "PCANBasic.h"
+#include "PCAN_BASIC/Headers/PCANBasic.h"
 
 #define LANGUAGE_ENGLISH        0x09
 

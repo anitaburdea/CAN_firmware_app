@@ -1,5 +1,5 @@
-#include "firmwaresend.h"
-#include "can.h"
+#include "Headers/firmwaresend.h"
+#include "Headers/can.h"
 #include "QThread"
 
 
